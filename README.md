@@ -1,3 +1,3 @@
-# portfolio
+# maximum-maximum.github.io
 
-URL: https://maximum-maximum.github.io/portfolio/
+https://maximum-maximum.github.io
