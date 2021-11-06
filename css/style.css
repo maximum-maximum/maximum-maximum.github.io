@@ -307,7 +307,23 @@ li {
   background-color: #333;
 }
 
+.link-list {
+  text-align: center;
+  height: 40px;
+  padding: 0px;
+}
+
+.link-list li {
+  width: 40px;
+  height: 100%;
+  display: inline-block;
+  /* background: #fff; */
+  border-radius: 50%;
+  font-size: 24px;
+}
+
 .copyright {
+  padding-top: 20px;
   font-size: 10px;
   text-align: center;
   color: #797979;
